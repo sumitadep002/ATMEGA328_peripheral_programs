@@ -6,7 +6,7 @@
  */ 
 
 #define SET_BIT()
-#define 16000000UL
+#define F_CPU16000000UL
 #include <avr/io.h>
 #include 
 #define timer0_value TCNT0
