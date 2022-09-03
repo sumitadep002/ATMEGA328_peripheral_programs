@@ -8,7 +8,6 @@
 #define SET_BIT()
 #define F_CPU16000000UL
 #include <avr/io.h>
-#include 
 #define timer0_value TCNT0
 
 void DHT_init()
